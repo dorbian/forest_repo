@@ -12,7 +12,7 @@
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/dorbian/forest_repo/main/MareSynchronos/images/icon.png",
+        "IconUrl": "https://github.com/dorbian/forest_repo/blob/6ff2de0213479e71734efccc43a6d4c0050c3e84/resources/icon.png",
         "Punchline": "gamesies",
         "IsHide": "False",
         "IsTestingExclusive": "False",
