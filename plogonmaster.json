@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "dorbian",
+        "Name": "Forest",
+        "InternalName": "Forest",
+        "AssemblyVersion": "0.0.1",
+        "Description": "Games",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/dorbian/",
+        "Tags": [
+          "customization"
+        ],
+        "DalamudApiLevel": 13,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/dorbian/forest_repo/main/MareSynchronos/images/icon.png",
+        "Punchline": "gamesies",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://url/file.zip",
+        "DownloadLinkTesting": "https://url/file.zip",
+        "DownloadLinkUpdate": "https://url/file.zip"
+      }
+]
