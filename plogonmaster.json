@@ -16,8 +16,8 @@
         "Punchline": "gamesies",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://url/file.zip",
-        "DownloadLinkTesting": "https://url/file.zip",
-        "DownloadLinkUpdate": "https://url/file.zip"
+        "DownloadLinkInstall": "https://github.com/dorbian/forest_repo/blob/afa57aba10ba3378af2a0d94d506983b0a9863e9/resources/forest.001.zip",
+        "DownloadLinkTesting": "https://github.com/dorbian/forest_repo/blob/afa57aba10ba3378af2a0d94d506983b0a9863e9/resources/forest.001.zip",
+        "DownloadLinkUpdate": "https://github.com/dorbian/forest_repo/blob/afa57aba10ba3378af2a0d94d506983b0a9863e9/resources/forest.001.zip"
       }
 ]
