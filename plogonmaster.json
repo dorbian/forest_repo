@@ -1,8 +1,9 @@
-﻿{
+﻿[
+{
     "Author":  "dorbian",
     "Name":  "Forest",
     "InternalName":  "Forest",
-    "AssemblyVersion":  "1.1.14",
+    "AssemblyVersion":  "1.1.15",
     "Description":  "Games",
     "ApplicableVersion":  "any",
     "RepoUrl":  "https://github.com/dorbian/",
@@ -19,3 +20,4 @@
     "DownloadLinkTesting":  "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip",
     "DownloadLinkUpdate":  "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip"
 }
+]
