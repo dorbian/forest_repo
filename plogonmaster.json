@@ -1,21 +1,23 @@
-﻿{
-    "Author":  "dorbian",
-    "Name":  "Forest",
-    "InternalName":  "Forest",
-    "AssemblyVersion":  "1.1.13",
-    "Description":  "Games",
-    "ApplicableVersion":  "any",
-    "RepoUrl":  "https://github.com/dorbian/",
-    "Tags":  [
-                 "customization"
-             ],
-    "DalamudApiLevel":  14,
-    "LoadPriority":  0,
-    "IconUrl":  "https://raw.githubusercontent.com/dorbian/forest_repo/main/resources/icon.png",
-    "Punchline":  "gamesies",
-    "IsHide":  "False",
-    "IsTestingExclusive":  "False",
-    "DownloadLinkInstall":  "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip",
-    "DownloadLinkTesting":  "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip",
-    "DownloadLinkUpdate":  "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip"
-}
+[
+  {
+    "Author": "dorbian",
+    "Name": "Forest",
+    "InternalName": "Forest",
+    "AssemblyVersion": "1.1.1",
+    "Description": "Games",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/dorbian/",
+    "Tags": [
+      "customization"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/dorbian/forest_repo/main/resources/icon.png",
+    "Punchline": "gamesies",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip",
+    "DownloadLinkTesting": "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip",
+    "DownloadLinkUpdate": "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip"
+  }
+]
