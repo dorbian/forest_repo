@@ -3,7 +3,7 @@
     "Author":  "TheBigTree",
     "Name":  "The Forest",
     "InternalName":  "Forest",
-    "AssemblyVersion":  "1.1.77",
+    "AssemblyVersion":  "1.1.79",
     "Description":  "FFXIV inâ€‘game admin panel for BigTree games: manage Bingo, Hunt, Raffle, Spin Wheel, Glam, and Murder Mystery while inâ€‘world.",
     "ApplicableVersion":  "any",
     "RepoUrl":  "https://github.com/dorbian/",
