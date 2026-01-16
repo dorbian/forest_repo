@@ -6,7 +6,7 @@
     "AssemblyVersion":  "1.1.79",
     "Description":  "A game admin panel for TheBigTree's social games: manage Bingo, Hunt, Raffle, Spin Wheel, Glam, and Murder Mystery from within Eorzea.",
     "ApplicableVersion":  "any",
-    "RepoUrl":  "https://github.com/dorbian/",
+    "RepoUrl":  "https://rites.thebigtree.life/",
     "Tags":  [
                  "admin",
                  "bingo",
