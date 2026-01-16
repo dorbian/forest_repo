@@ -4,7 +4,7 @@
     "Name":  "The Forest",
     "InternalName":  "Forest",
     "AssemblyVersion":  "1.1.79",
-    "Description":  "FFXIV inâ€‘game admin panel for BigTree games: manage Bingo, Hunt, Raffle, Spin Wheel, Glam, and Murder Mystery while inâ€‘world.",
+    "Description":  "A game admin panel for TheBigTree's social games: manage Bingo, Hunt, Raffle, Spin Wheel, Glam, and Murder Mystery from within Eorzea.",
     "ApplicableVersion":  "any",
     "RepoUrl":  "https://github.com/dorbian/",
     "Tags":  [
@@ -18,7 +18,7 @@
     "DalamudApiLevel":  14,
     "LoadPriority":  0,
     "IconUrl":  "https://raw.githubusercontent.com/dorbian/forest_repo/main/resources/icon.png",
-    "Punchline":  "Run TheBigTree games directly in FFXIV.",
+    "Punchline":  "Run TheBigTree's games directly in FFXIV.",
     "IsHide":  "False",
     "IsTestingExclusive":  "False",
     "DownloadLinkInstall":  "https://github.com/dorbian/thebigtree/releases/download/forest-client-latest/forest-client.zip",
